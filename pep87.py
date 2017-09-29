@@ -19,5 +19,4 @@ for i in range(len(pr)):
             else:
                 break
 
-print("Bless you boys")
 print(len(set(num)))
