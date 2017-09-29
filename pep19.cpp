@@ -12,7 +12,6 @@ int dayofweek(int d, int m, int y)
     return ans;
 }
 
-
 int main()
 {
     int cnt = 0;
